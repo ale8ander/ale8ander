@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ale8ander
-- 👀 I’m interested in ... DeepLeaning, Statistics
-- 🌱 I’m currently learning ...Computer Science Engineering in KyungPook National University(KNU)
+- 👀 I’m interested in ... DeepLeaning, Statistics (especially LLM)
+- 🌱 I’m junior at Computer Science Engineering in KyungPook National University(KNU)
 
 <!---
 ale8ander/ale8ander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
