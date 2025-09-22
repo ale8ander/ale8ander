@@ -7,8 +7,8 @@
         <mxCell id="ta630WcsLBKMDcRlicdv-1" value="EMPLOYEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="170" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ta630WcsLBKMDcRlicdv-2" value="unique empolyee id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="100" width="90" height="40" as="geometry" />
+        <mxCell id="ta630WcsLBKMDcRlicdv-2" value="&lt;u&gt;empolyee id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ta630WcsLBKMDcRlicdv-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ta630WcsLBKMDcRlicdv-1" target="ta630WcsLBKMDcRlicdv-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,19 +17,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ta630WcsLBKMDcRlicdv-4" value="PART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="170" width="100" height="20" as="geometry" />
+          <mxGeometry x="150" y="360" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta630WcsLBKMDcRlicdv-5" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="100" height="20" as="geometry" />
+          <mxGeometry x="430" y="160" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta630WcsLBKMDcRlicdv-6" value="first name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ta630WcsLBKMDcRlicdv-7" value="last name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="120" y="10" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ta630WcsLBKMDcRlicdv-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="40" width="90" height="40" as="geometry" />
+        <mxCell id="ta630WcsLBKMDcRlicdv-8" value="department_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-9" value="Zip Code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-10" value="&lt;u&gt;customer id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-11" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-12" value="address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-13" value="Zip Code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-14" value="&lt;u&gt;part id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-15" value="part name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-16" value="price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-17" value="Quantity in stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-18" value="ORDER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-19" value="&lt;u&gt;order id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-20" value="a date of receipt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-21" value="delivery service provider&#39;s name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-22" value="expected ship date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-23" value="the actual delivery date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta630WcsLBKMDcRlicdv-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
